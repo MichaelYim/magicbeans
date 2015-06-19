@@ -1,0 +1,21 @@
+.main {
+  margin-top:50px;
+}
+
+
+
+/*NAVBAR*/
+.navbar {
+  background:white;
+  border-bottom:1px solid #ECECEC;
+
+}
+
+.navbar a {
+  color:#333;
+}
+
+.navbar-brand {
+  font-weight:800;
+  font-size:20px;
+}
