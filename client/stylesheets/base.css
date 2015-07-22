@@ -98,6 +98,12 @@ a.navbar-brand {
   border-bottom: 1px solid #1F2429;
 }
 
+.sidebar-nav li.userBox img {
+  width:70px;
+  margin-left:40px;
+  margin-right:40px;
+}
+
 .sidebar-nav li {
     text-indent: 20px;
     line-height: 40px;
